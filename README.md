@@ -32,7 +32,7 @@ Before running, ensure you have:
 Install dependencies:
 ```bash
 pip install -r requirements.txt
-<img width="579" height="540" alt="image" src="https://github.com/user-attachments/assets/37d0652f-a52c-4f3c-9261-12393eccd3ae" />
+
 
 
 ## ⚙️ File Structure
